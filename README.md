@@ -10,5 +10,8 @@ Data Structure and Algorithms solutions from [Striver's SDE Sheet][striver_dsa_s
 2. Minimum number of Platforms required for a Railway
    - [Problem Statement](https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/)
    - [Solution in Java](./greedy_algorithm/minimum_platforms_for_railway/Solution.java)
+3. Job Sequencing Problem
+   - [Problem Statement](https://takeuforward.org/data-structure/job-sequencing-problem/)
+   - [Solution in Java](./greedy_algorithm/job_sequencing/Solution.java)
 
 [striver_dsa_sheet]: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems
