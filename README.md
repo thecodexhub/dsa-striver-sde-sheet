@@ -19,5 +19,8 @@ Data Structure and Algorithms solutions from [Striver's SDE Sheet][striver_dsa_s
 5. Find Minimum number of Coins
    - [Problem Statement](https://takeuforward.org/data-structure/find-minimum-number-of-coins/)
    - [Solution in Java](./greedy_algorithm/minimum_coins/Solution.java)
+6. Assign Cookies
+   - [Problem Statement - Leetcode](https://leetcode.com/problems/assign-cookies/)
+   - [Solution in Java](./greedy_algorithm/assign_cookies/Solution.java)
 
 [striver_dsa_sheet]: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems
