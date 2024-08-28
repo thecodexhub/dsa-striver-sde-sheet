@@ -23,4 +23,10 @@ Data Structure and Algorithms solutions from [Striver's SDE Sheet][striver_dsa_s
    - [Problem Statement - Leetcode](https://leetcode.com/problems/assign-cookies/)
    - [Solution in Java](./greedy_algorithm/assign_cookies/Solution.java)
 
+## Binary Search
+
+1. N-th root of an Integer
+   - [Problem Statement](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/)
+   - [Solution in Java](./binary_search/nth_root_of_a_number/Solution.java)
+
 [striver_dsa_sheet]: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems
